@@ -1,0 +1,14 @@
+{
+  "name": "amap-mcp-demo",
+  "version": "1.0.0",
+  "description": "Demo project for all Amap MCP APIs using Node.js and JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
